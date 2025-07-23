@@ -8,5 +8,5 @@ class Solution:
                 return [teste[i], index]
             teste[target - i] = index
 
-sol = Solution()
-print(sol.twoSum([2,7,11,15], 9))  # Saída esperada: [0, 1]
+# sol = Solution()
+# print(sol.twoSum([2,7,11,15], 9))  
